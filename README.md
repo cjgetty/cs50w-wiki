@@ -16,7 +16,7 @@ This project is a part of CS50's [Web Programming with Python and JavaScript](ht
   * Clicking on any of the entry names on the search results page should take the user to that entry’s page.
 
 * New Page: Clicking “Create New Page” in the sidebar should take the user to a page where they can create a new encyclopedia entry.
-  * Users should be able to enter a title for the page and, in a `[textarea](https://www.w3schools.com/tags/tag_textarea.asp)`, should be able to enter the Markdown content for the page.
+  * Users should be able to enter a title for the page and, in a [`textarea`](https://www.w3schools.com/tags/tag_textarea.asp), should be able to enter the Markdown content for the page.
   * Users should be able to click a button to save their new page.
   * When the page is saved, if an encyclopedia entry already exists with the provided title, the user should be presented with an error message.
   * Otherwise, the encyclopedia entry should be saved to disk, and the user should be taken to the new entry’s page.
